@@ -1,0 +1,14 @@
+2024-04-01 00:07:59,683 - INFO - START Chat_GPT_Integration =============================================
+2024-04-01 00:07:59,683 - INFO - START Chat_GPT_Integration Start Time = 2024-04-01 00:07:59
+2024-04-01 00:07:59,683 - INFO - Chat_GPT_Integration Step 0 - Initialize the configuration file parser
+2024-04-01 00:07:59,683 - INFO - Process Chat_GPT_Integration Step 0 - Initializing and starting Logging Process.
+2024-04-01 00:07:59,837 - INFO - message='Request to OpenAI API' method=get path=https://api.openai.com/v1/engines
+2024-04-01 00:08:00,219 - INFO - message='OpenAI API response' path=https://api.openai.com/v1/engines processing_ms=61 request_id=req_54d926572e816f709c05a16644154848 response_code=200
+2024-04-01 00:08:00,322 - INFO - PERFORMANCE Chat_GPT_Integration The total process duration was:0.64
+2024-04-01 00:08:00,322 - INFO - PERFORMANCE Chat_GPT_Integration Stop Time = 2024-04-01 00:08:00
+2024-04-01 00:08:00,322 - INFO - PERFORMANCE Chat_GPT_Integration Short process duration less than 3 Seconds:0.64
+2024-04-01 00:08:00,322 - INFO - PERFORMANCE Chat_GPT_Integration Performance optimization is not reccomended
+2024-04-01 00:08:00,322 - INFO - END Chat_GPT_Integration =============================================
+2024-04-01 00:10:31,030 - INFO - message='Request to OpenAI API' method=post path=https://api.openai.com/v1/engines/babbage-002/completions
+2024-04-01 00:10:31,133 - INFO - message='OpenAI API response' path=https://api.openai.com/v1/engines/babbage-002/completions processing_ms=None request_id=req_27dfa2b82a6d86ebe19a7096294eb3cf response_code=429
+2024-04-01 00:10:31,134 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False

@@ -1,0 +1,16 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-04-01 00:07:59,683 - INFO - START Chat_GPT_Integration =============================================
+2024-04-01 00:07:59,683 - INFO - START Chat_GPT_Integration Start Time = 2024-04-01 00:07:59
+2024-04-01 00:07:59,683 - INFO - Chat_GPT_Integration Step 0 - Initialize the configuration file parser
+2024-04-01 00:07:59,683 - INFO - Process Chat_GPT_Integration Step 0 - Initializing and starting Logging Process.
+2024-04-01 00:07:59,837 - INFO - message='Request to OpenAI API' method=get path=https://api.openai.com/v1/engines
+2024-04-01 00:08:00,219 - INFO - message='OpenAI API response' path=https://api.openai.com/v1/engines processing_ms=61 request_id=req_54d926572e816f709c05a16644154848 response_code=200
+2024-04-01 00:08:00,322 - INFO - PERFORMANCE Chat_GPT_Integration The total process duration was:0.64
+2024-04-01 00:08:00,322 - INFO - PERFORMANCE Chat_GPT_Integration Stop Time = 2024-04-01 00:08:00
+2024-04-01 00:08:00,322 - INFO - PERFORMANCE Chat_GPT_Integration Short process duration less than 3 Seconds:0.64
+2024-04-01 00:08:00,322 - INFO - PERFORMANCE Chat_GPT_Integration Performance optimization is not reccomended
+2024-04-01 00:08:00,322 - INFO - END Chat_GPT_Integration =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
