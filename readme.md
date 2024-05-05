@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Chat Gpt Integration - Solution that demonstrates how to integrate your applications with **Chat GPT**. Utilizes the API to integrate with the LLM **Large Language Model**
 Solution that demonstrates how to integrate your applications with **Chat GPT**. Utilizes the API to integrate with the LLM **Large Language Model**
 
@@ -9,8 +11,6 @@ Welcome to the solution **Chat Gpt Integration** - an example for your projects
 Solution that demonstrates how to integrate your applications with **Chat GPT**. Utilizes the API to integrate with the LLM **Large Language Model**
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
