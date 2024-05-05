@@ -48,5 +48,5 @@ To get started with the **Chat Gpt Integration** solution repository, follow the
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](solution_stacked_sign.png)  <br>
+ 
     
