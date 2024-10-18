@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Chat Gpt Integration 
-    ## Solution that demonstrates how to integrate your applications with **Chat GPT**. Utilizes the API to integrate with the LLM **Large Language Model**
+    
+# Chat Gpt Integration 
+
+## Solution that demonstrates how to integrate your applications with **Chat GPT**. Utilizes the API to integrate with the LLM **Large Language Model**
+
     ![Image image_filename](code.png)
 Welcome to the solution **Chat Gpt Integration** - an example for your projects
 
@@ -25,9 +28,9 @@ To get started with the **Chat Gpt Integration** solution repository, follow the
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Chat Gpt Integration** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -37,6 +40,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  
