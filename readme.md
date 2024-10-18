@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Chat Gpt Integration - Solution that demonstrates how to integrate your applications with **Chat GPT**. Utilizes the API to integrate with the LLM **Large Language Model**![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Chat Gpt Integration 
+    ## Solution that demonstrates how to integrate your applications with **Chat GPT**. Utilizes the API to integrate with the LLM **Large Language Model**
+    ![Image image_filename](code.png)
 Welcome to the solution **Chat Gpt Integration** - an example for your projects
 
 Solution that demonstrates how to integrate your applications with **Chat GPT**. Utilizes the API to integrate with the LLM **Large Language Model**
@@ -12,12 +15,15 @@ To get started with the **Chat Gpt Integration** solution repository, follow the
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
