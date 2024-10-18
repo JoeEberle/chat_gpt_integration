@@ -2,7 +2,7 @@
 Welcome to the solution **Chat Gpt Integration** - an example for your projects
 
 Solution that demonstrates how to integrate your applications with **Chat GPT**. Utilizes the API to integrate with the LLM **Large Language Model**
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
